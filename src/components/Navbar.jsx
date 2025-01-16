@@ -3,6 +3,7 @@ import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
+import { SiGmail } from "react-icons/si";
 import React, { useState } from "react";
 
 const Navbar = () => {
@@ -113,10 +114,12 @@ const Navbar = () => {
       </div>
   </div>
   <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-    <FaLinkedin />
-    <FaGithub />
+    <a href='https://www.linkedin.com' target='_blank'> <FaLinkedin /> </a>
     <FaTwitter />
     <FaInstagram />
+    <a href='https://github.com/AnuradhaKumariRaj/Anuradha' target='_blank'> <FaGithub /> </a>
+    <a href='mailto:anu.coding.classes@gmail.com' target='_blank'> <SiGmail /> </a>
+    
   </div>
   </nav>
 );
