@@ -22,7 +22,7 @@ export const EXPERIENCES = [
     role: "Software Engineer ",
     company: "freelancer.",
     description: `Developed a Real State project for inquiry about the Real state property. I created\
-    a chatbot for inquiry about the company and property and I also work for data manipilation and data visualization`,
+    a chatbot for inquiry about the company and property and I also work for data manipilation and data visualization.`,
     technologies: ["Python", "Django","llm(langchain)","OpenAI","Pandas","Numpy","matplotlib","docker", "Mongodb"],
   },
   {
@@ -40,7 +40,7 @@ export const EXPERIENCES = [
     description: `Developed and maintained paymentgatway applications using ,Python, /
     FstAPI and MySQL. Designed and implemented RESTful APIs for data communication. Collaborated /
     with cross-functional teams to deliver high-quality software products on schedule. I also worked as a \
-    fullstack developer for create e-commerce webapplication`,
+    fullstack developer for create e-commerce webapplication.`,
     technologies: ["Python", "FastAPI","django","react.js","MySQL","postgress","git"],
   },
   {
@@ -90,7 +90,7 @@ export const PROJECTS = [
       "I created Real State project for Inquiry about the Property where user can see the price according\
       to location and size of the project they can also find the price on the basis of sqaure fit.I worked \
       on data cleaning, data manipulation and data visualization. I worked to create a chatbot to ask any \
-      query about the Company and Property",
+      query about the Company and Property.",
     technologies: ["Python","Django","Numpy","Pandas",,"matplotlib","llm(langchain)","OpenAI","React","MongoDb","git"],
   },
   

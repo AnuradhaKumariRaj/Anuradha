@@ -25,7 +25,7 @@ const Hero = () => {
                     variants={container(0)}
                     initial="hidden"
                     animate="visible"
-                    className="pb-16 text-3xl font-thin tracking-tight lg:mt-16 lg:tex-8xl"> 
+                    className="pb-16 text-3xl font-thin tracking-tight lg:mt-16 lg:tex-8xl text-yellow-500"> 
                     Anuradha Kumari 
                     </motion.h1>
                     

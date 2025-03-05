@@ -36,37 +36,36 @@ const Navbar = () => {
         <div className="flex flex-col items-center gap-4 mt-4 md:hidden text-xl font-thin tracking-tight">
           <a
             href="#home"
-            className="nav_items text-white hover:text-yellow-500 hover:underline"
-          >
+            className="nav_items text-white hover:text-orange-500 hover:underline text-yellow-500">
             Home
           </a>
           <a
             href="#AboutMe"
-            className="nav_items text-white hover:text-yellow-500 hover:underline"
+            className="nav_items text-white hover:text-orange-500 hover:underline text-yellow-500"
           >
             About Me
           </a>
           <a
             href="#Technologies"
-            className="nav_items text-white hover:text-yellow-500 hover:underline"
+            className="nav_items text-white hover:text-orange-500 hover:underline text-yellow-500"
           >
             Technologies
           </a>
           <a
             href="#Experience"
-            className="nav_items text-white hover:text-yellow-500 hover:underline"
+            className="nav_items text-white hover:text-orange-500 hover:underline text-yellow-500"
           >
             Experience
           </a>
           <a
             href="#Projects"
-            className="nav_items text-white hover:text-yellow-500 hover:underline"
+            className="nav_items text-white hover:text-orange-500 hover:underline text-yellow-500"
           >
             Projects
           </a>
           <a
             href="#contact"
-            className="nav_items text-white hover:text-yellow-500 hover:underline"
+            className="nav_items text-white hover:text-orange-500 hover:underline text-yellow-500"
           >
             Contacts
           </a>
@@ -77,43 +76,43 @@ const Navbar = () => {
       <div className="hidden md:flex items-center justify-center gap-4 text-xl font-thin tracking-tight">
         <a
           href="#home"
-          className="nav_items text-white hover:text-yellow-500 hover:underline"
+          className="nav_items text-white hover:text-orange-500 hover:underline text-yellow-500"
         >
           Home
         </a>
         <a
           href="#AboutMe"
-          className="nav_items text-white hover:text-yellow-500 hover:underline"
+          className="nav_items text-white hover:text-orange-500 hover:underline text-yellow-500"
         >
           About Me
         </a>
         <a
           href="#Technologies"
-          className="nav_items text-white hover:text-yellow-500 hover:underline"
+          className="nav_items text-white hover:text-orange-500 hover:underline text-yellow-500"
         >
           Technologies
         </a>
         <a
           href="#Experience"
-          className="nav_items text-white hover:text-yellow-500 hover:underline"
+          className="nav_items text-white hover:text-orange-500 hover:underline text-yellow-500"
         >
           Experience
         </a>
         <a
           href="#Projects"
-          className="nav_items text-white hover:text-yellow-500 hover:underline"
+          className="nav_items text-white hover:text-orange-500 hover:underline text-yellow-500"
         >
           Projects
         </a>
         <a
           href="#contact"
-          className="nav_items text-white hover:text-yellow-500 hover:underline"
+          className="nav_items text-white hover:text-orange-500 hover:underline text-yellow-500"
         >
           Contacts
         </a>
       </div>
   </div>
-  <div className="m-8 flex items-center justify-center gap-4 text-2xl">
+  <div className="m-8 flex items-center justify-center gap-4 text-2xl text-yellow-500">
     <a href='https://www.linkedin.com' target='_blank'> <FaLinkedin /> </a>
     <FaTwitter />
     <FaInstagram />
