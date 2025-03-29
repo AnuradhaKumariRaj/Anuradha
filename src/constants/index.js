@@ -106,6 +106,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Noida,UP,Bharat",
-  phoneNo: "+91 9211261727 ",
+  phoneNo: "+91 9821931028 ",        
   email: "anu.coding.classes@gmail.com",
 };
